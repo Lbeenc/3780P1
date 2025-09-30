@@ -7,7 +7,6 @@ This repo contains **complete, working starters** for all three tasks plus a Mak
 - `task2.cpp` — compare a local `static` array vs a `malloc`'d dynamic array; print addresses for GDB work.
 - `task3.cpp` — integer calculator with **overflow-safe** addition, multiplication, and division.
 - `Makefile` — `make all`, or `make task1`/`task2`/`task3`.
-- `REPORT_TEMPLATE.md` — a fill‑in template for your writeup with checklist and GDB commands.
 
 ---
 
@@ -130,5 +129,3 @@ Justification of correctness:
 ---
 
 ## Screenshots & Report
-
-Use `REPORT_TEMPLATE.md` and paste your screenshots showing the memory dumps and annotate what each region represents. Convert to PDF (e.g., using any editor or an online converter) before submission.
